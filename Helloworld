@@ -1,0 +1,9 @@
+/**
+* my program is setup to print "Hello World!"".
+*
+* @author Elias Cederblad (cedeli-3)
+* @version 1.0
+*/
+class Main {
+    public static void main(final String[] args) {
+        System.out.println("Hello world!");
